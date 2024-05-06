@@ -1,0 +1,45 @@
+body{
+   background-color:  hsl(216, 12%, 8%);
+}
+
+.caixa{
+   background-color:hsl(213, 19%, 18%);
+   color: white;
+   text-align: center;
+   padding: 70px;
+   margin: 70px;
+   width: 200px;
+   height: 200px;
+   justify-content: center;
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+   border-bottom-left-radius: 15px;
+   border-bottom-right-radius: 15px;
+   flex-direction: column;
+   text-align: left;
+}
+
+button{
+    background-color: white;
+    color: hsl(25, 97%, 53%);
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    margin: 15px;
+    padding: 16px;
+    width: 150px;
+    height: 30px;    
+}
+
+h1{
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+p{
+    font-size: 15px;
+    color: hsl(216, 12%, 54%)
+
+}
